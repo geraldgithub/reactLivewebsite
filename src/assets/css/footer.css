@@ -1,0 +1,14 @@
+/* Footer */
+.footer{
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+}
+.footer .container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    color: #fff;
+}
